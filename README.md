@@ -83,3 +83,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for ZipRecruiter.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit ZipRecruiter on SOFTGIT](https://softgit.pro/p/ziprecruiter)** — the full listing.
+- 📄 **[ZipRecruiter web page](https://wantshuspike.github.io/ziprecruiter-download/)** — standalone info page.
+- 🗂️ [More Business software](https://softgit.pro/category/business)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for ZipRecruiter. Third-party software; all rights belong to the original authors.
